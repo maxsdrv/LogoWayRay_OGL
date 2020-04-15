@@ -9,7 +9,7 @@
 #include "shader.h"
 
 
-//Применение шейдеров и использование двух VBO and VAO для отображения примитивов
+//Using shaders and using two VBO and VAO to display primitives
 
 
 int main(void)
